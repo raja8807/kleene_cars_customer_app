@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Kleene Cars Customer",
+    "slug": "kleene_cars_customer_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F34E62"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F34E62"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.kleenecarshsr.kleene_cars_customer_app",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb755a1f-2239-41f6-b476-86b2aa56f444"
+      }
+    },
+    "owner": "kleenecarshsr",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/eb755a1f-2239-41f6-b476-86b2aa56f444"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}

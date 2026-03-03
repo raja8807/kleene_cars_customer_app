@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746129369804",
+    "project_id": "kleenecars-5139d",
+    "storage_bucket": "kleenecars-5139d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746129369804:android:f351812fcd8de1e4d27069",
+        "android_client_info": {
+          "package_name": "com.kleenecarshsr.kleene_cars_customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbb6RGuWtS-XSNui-1sF-go5AZ0LLUZQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
